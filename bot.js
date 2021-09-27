@@ -208,3 +208,5 @@ client.login(ayarlar.token)
 client.on("ready", () => {
   client.channels.get("812822939300134952").join();
 });
+
+worker node bot.js
